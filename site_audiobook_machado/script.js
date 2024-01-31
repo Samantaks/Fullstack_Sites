@@ -1,7 +1,7 @@
 const botaoPlayPause = document.getElementById('play-pause');
 const audioCapitulo = document.getElementById('audio-capitulo');
 const botaoAvancar = document.getElementById('proximo')
-const botaoVoltar = document.getElementById('voltar')
+const botaoVoltar = document.getElementById('anterior')
 
 const numeroCapitulos = 10 ;
 let taTocando = 0;
